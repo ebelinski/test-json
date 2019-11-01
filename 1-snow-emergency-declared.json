@@ -1,0 +1,40 @@
+{
+  "display_message": {
+    "enShortMessage": "Test 2 DECLARE (Lisa)",
+    "esShortMessage": "Spanish Test 2 DECLARE (Lisa)",
+    "enLongMessage": "Long Test 2 DECLARE (Lisa)",
+    "esLongMessage": "Spanish Long Test 2 DECLARE (Lisa)",
+    "dateSent": "2019-10-31T00:00:00-05:00",
+    "action": "display_message",
+    "actionStart": "2019-10-31T00:00:00-05:00"
+  },
+  "night_mode": {
+    "enShortMessage": "Test 2 NIGHT (Lisa)",
+    "esShortMessage": "Spanish Test 2 NIGHT (Lisa)",
+    "enLongMessage": "Long Test 2 NIGHT (Lisa)",
+    "esLongMessage": "Spanish Long Test 2 NIGHT (Lisa)",
+    "dateSent": "2019-10-29T10:37:06-05:00",
+    "action": "night_mode",
+    "actionStart": "2019-10-29T10:38:00-05:00",
+    "actionEnd": "2019-10-29T10:40:00-05:00"
+  },
+  "day_mode": {
+    "enShortMessage": "Test DAY (Lisa)",
+    "esShortMessage": "Spanish Test DAY (Lisa)",
+    "enLongMessage": "Long Test DAY (Lisa)",
+    "esLongMessage": "Long Spanish DAY Test (Lisa)",
+    "dateSent": "2019-10-29T10:25:50-05:00",
+    "action": "day_mode",
+    "actionStart": "2019-10-29T10:27:00-05:00",
+    "actionEnd": "2019-10-29T10:30:00-05:00"
+  },
+  "clear_all": {
+    "enShortMessage": "Test ALL CLEAR (Lisa)",
+    "esShortMessage": "Spanish Test ALL CLEAR (Lisa)",
+    "enLongMessage": "Long Test ALL CLEAR (Lisa)",
+    "esLongMessage": "Spanish Long Test ALL CLEAR (Lisa)",
+    "dateSent": "2019-10-29T10:32:09-05:00",
+    "action": "clear_all",
+    "actionStart": "2019-10-29T10:33:00-05:00"
+  }
+}
